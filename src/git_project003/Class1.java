@@ -8,5 +8,10 @@ public class Class1 {
 		System.out.println("local master branch");
 		System.out.println("local master branch 2. commit");
 		
+		System.out.println("local master branch");
+		System.out.println("local master branch 2. commit");
+		System.out.println("local master branch");
+		System.out.println("local master branch 2. commit")
+		
 	}
 }
